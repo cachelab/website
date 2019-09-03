@@ -1,0 +1,39 @@
+body {
+    font-family: "Poppins", sans-serif;
+    padding-top: 56px;
+    color: #212127;
+    font-size: 16px;
+    font-weight: 400;
+}
+.navbar {
+    background: #007bff !important;
+}
+.navbar a {
+    color: #fff;
+}
+h1, h2, h3, h4, h5, h6 {
+    color: #313131;
+    font-weight: 700;
+}
+.black-bg {
+    background: #000;
+    opacity: 0.8;
+}
+.gray-bg {
+    background-color: #f7f7fd;
+}
+.img-resize {
+    width: 22%;
+    padding-right: 2%;
+}
+.img-100 {
+    border-radius: 5px;
+    width: 100%;
+}
+.img-75 {
+    border-radius: 5px;
+    width: 75%;
+}
+.cachelab-icon {
+    padding: 5px;
+}
