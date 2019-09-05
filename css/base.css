@@ -37,3 +37,9 @@ h1, h2, h3, h4, h5, h6 {
 .cachelab-icon {
     padding: 5px;
 }
+.footer-logo {
+    width: 5%;
+}
+@media screen and (max-width: 991px) {
+  .footer-logo { width : 9%; }
+}
