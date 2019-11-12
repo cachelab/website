@@ -1,3 +1,7 @@
+## 1.0.2 (November 11 2019)
+
+* Image update.
+
 ## 1.0.1 (September 4 2019)
 
 * Update Jonah's title.
