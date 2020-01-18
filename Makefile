@@ -1,4 +1,4 @@
-VERSION := 1.0.2
+VERSION := 1.0.3
 
 sync:
 	AWS_PROFILE=${CACHE_LAB_AWS_PROFILE} aws s3 sync . s3://${CACHE_LAB_SITE_BUCKET}/ \
