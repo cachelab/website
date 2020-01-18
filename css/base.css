@@ -5,6 +5,10 @@ body {
     font-size: 16px;
     font-weight: 400;
 }
+.card-img-top {
+    max-width: 253px;
+    max-height: 253px;
+}
 .navbar {
     background: #007bff !important;
 }
@@ -36,6 +40,9 @@ h1, h2, h3, h4, h5, h6 {
 }
 .cachelab-icon {
     padding: 5px;
+}
+.cachelab-footer-icon {
+    color: #313131;
 }
 .footer-logo {
     width: 5%;

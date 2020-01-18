@@ -1,3 +1,7 @@
+## 1.0.3 (January 18 2020)
+
+* New team members.
+
 ## 1.0.2 (November 11 2019)
 
 * Image update.
